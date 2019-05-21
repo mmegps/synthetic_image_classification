@@ -8,10 +8,15 @@ Category 0: 1-10 lines
 Category 1: 11-20 lines  
 Category 2: 20-30 lines  
 
-e.g. 
-[Category 0 samples](images/Category_0_samples.png)
-[Category 1 samples](images/Category_1_samples.png)
-[Category 2 samples](images/Category_2_samples.png)
+e.g.  
+Category 0:  
+![images](/images/Category_0_samples.png)
+
+Category 1:  
+![images](/images/Category_1_samples.png)
+
+Category 2:  
+![images](/images/Category_2_samples.png)
 
 The DL network is a simple image analysis system which is fed a labelled set of these images with the category, and it learns predicting the categories once ready though its inferences.  
 
